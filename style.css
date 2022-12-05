@@ -1,0 +1,168 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.img {
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.Portfolio-head {
+    background: #4a1517;
+    background-size: 100% 100%;
+}
+
+.Portfolio-header {
+    color: white;
+    font-size: 40px;
+}
+
+.text-head {
+    color: white;
+    font-size: 20px;
+}
+
+.End {
+    background: #4a1517;
+    padding-bottom: 20px;
+    padding-top: 40px;
+}
+
+.end-item {
+    font-size: 15px;
+    list-style: none;
+    color: white;
+}
+
+.end-end {
+    font-size: 15px;
+    color: gray;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.End-head {
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.button {
+    background: #4a1517;
+    color: white;
+    width: 170px;
+    height: 40px;
+}
+
+.Form {
+    background-color: #fadadd;
+    padding-bottom: 80px;
+}
+
+.heading {
+    font-size: 25px;
+}
+
+.Form-head {
+    font-size: 20px;
+}
+
+.main {
+    background: #bbbbbb;
+}
+
+.txt {
+    font-size: 15px;
+}
+
+.headings {
+    font-size: 20px;
+}
+
+.wrap {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.Portfolio-heading {
+    display: flex;
+}
+
+.portfolio-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 100px;
+}
+
+.objective-head {
+    padding-bottom: 25px;
+    padding-top: 65px;
+}
+
+.objective-item {
+    padding-bottom: 15px;
+}
+
+.experience-head {
+    padding-top: 80px;
+    padding-bottom: 25px;
+}
+
+.eperience-wrapper {
+    display: flex;
+}
+
+.item-head {
+    padding-right: 92px;
+}
+
+.experience-item {
+    padding-left: 180px;
+}
+
+.skills-head {
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+
+.Lang {
+    padding-bottom: 80px;
+}
+
+.lang-head {
+    padding-top: 70px;
+    padding-bottom: 25px;
+}
+
+.lang-item {
+    list-style-type: none;
+}
+
+.lang-item::before {
+    content: '\25A0';
+    color: rgb(150, 121, 228);
+    display: inline-block;
+    width: 1em;
+}
+
+.Form-header {
+    padding-top: 100px;
+    padding-bottom: 30px;
+    text-align: center;
+    padding-right: 150px;
+}
+
+.end-line {
+    display: flex;
+    justify-content: space-between;
+}
+
+.rap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
